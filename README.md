@@ -2,7 +2,7 @@
 
 ![two-cars](https://github.com/Garth-brick/two-cars/assets/92771830/185bebd9-9be0-41f2-9752-58c08fc7df19)
 
-Note: Graphics quality of the game is better than show in the gif above.
+Note: Graphics quality of the game is better than shown in the gif above.
 
 Technologies used:
 - Python 3.11.4
